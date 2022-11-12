@@ -2,7 +2,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <p align="center">Start your Unity journey in the world of Pixel Invaders® <b>(TURN ON THE VOLUME)</b></p>
-    
+   
+
+https://user-images.githubusercontent.com/34170205/201474638-be0324e8-b6ea-43bf-8f3e-15db1c7790e7.mp4
+
+ 
 ## Features
 - Custom enemies are in the game with modifications to player tracking, velocity, and offensive actions.
 - The player's gun has a charge rate corresponding to the fire capacity. Once the charge overloads, the firearm will goto a cooldown phase for a few seconds.
