@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FPS-Game",
+"productVersion": "1.2.0",
+"dataUrl": "Unity Projects.data.unityweb",
+"wasmCodeUrl": "Unity Projects.wasm.code.unityweb",
+"wasmFrameworkUrl": "Unity Projects.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.10f1"
+}
